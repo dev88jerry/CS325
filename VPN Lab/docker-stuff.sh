@@ -2,6 +2,10 @@
 
 # some docker commands
 
+# Start docker
+dcbuild
+dcup
+
 # show all containers
 docker container ls
 
